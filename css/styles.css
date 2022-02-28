@@ -1,0 +1,138 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #151D3B;
+
+}
+h1 {
+  color: #FFB72B;
+  line-height: 1;
+  font-size: 562.5%;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #FFB72B;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #1C0A00;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  line-height: 2;
+}
+
+hr {
+  border: dotted #524A4E 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 3% auto;
+}
+
+a {
+  color: #4FD3C4;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color : #362706;
+}
+
+.top-container {
+  background-color: #90E0EF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-container{
+  background-color: #DFF6FF;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 5% auto 5% auto;
+  text-align: left;
+}
+
+.Padjadjaran {
+  text-decoration: underline;
+}
+
+.intro{
+  width: 70%;
+  margin: auto;
+}
+
+.contact-massage {
+  width: 33%;
+  margin: 40px auto 50px;
+}
+
+.copyright {
+  color: #524A4E;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.language-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.microsoft-img{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.myButton {
+	box-shadow: 3px 4px 0px 0px #b6d7db;
+	background:linear-gradient(to bottom, #ace3f7 5%, #396a70 100%);
+	background-color:#ace3f7;
+	border-radius:15px;
+	border:1px solid #171517;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #69a1b3;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #396a70 5%, #ace3f7 100%);
+	background-color:#396a70;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
